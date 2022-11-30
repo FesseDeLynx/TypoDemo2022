@@ -1,15 +1,23 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Adamina&family=Smythe&display=swap');
 
+body {
+    font-family: 'Adamina', serif;
+    background-color: antiquewhite;
+    color: black;
+
+}
+h1,h2,h3 {
+    font-family: 'Smythe', cursive;
 }
 
 h1 {
-    
+    color: blue;
 }
 
 h2 {
-    
+    color: white;
 }
 
 p {
-    
+    color: red;
 }
