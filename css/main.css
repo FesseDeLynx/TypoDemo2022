@@ -1,13 +1,21 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Piazzolla:opsz@8..30&display=swap');
 
+body {
+    background-color: green;
+    font-family: 'Piazzolla', serif;
+    color: antiquewhite;
+}
+
+h1,h2 {
+    font-family: 'Fruktur', cursive;
 }
 
 h1 {
-    
+    color: black;
 }
 
 h2 {
-    
+    color: brown;
 }
 
 p {
